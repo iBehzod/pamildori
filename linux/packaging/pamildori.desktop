@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pamildori
+Comment=A beautiful Pomodoro app for productivity
+Exec=/usr/bin/pamildori
+Icon=/usr/share/icons/hicolor/256x256/apps/pamildori.png
+Terminal=false
+Categories=Utility;Office;Productivity;
+Keywords=pomodoro;timer;productivity;focus;pamildori;
+StartupNotify=true 
